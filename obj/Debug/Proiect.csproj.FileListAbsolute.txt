@@ -1,0 +1,91 @@
+G:/EGC/EGC(Lab_exemplu)/Proiect/bin/Debug/Proiect.exe.config
+G:/EGC/EGC(Lab_exemplu)/Proiect/bin/Debug/Proiect.exe
+G:/EGC/EGC(Lab_exemplu)/Proiect/bin/Debug/Proiect.pdb
+G:/EGC/EGC(Lab_exemplu)/Proiect/bin/Debug/OpenTK.dll
+G:/EGC/EGC(Lab_exemplu)/Proiect/bin/Debug/OpenTK.GLControl.dll
+G:/EGC/EGC(Lab_exemplu)/Proiect/bin/Debug/OpenTK.pdb
+G:/EGC/EGC(Lab_exemplu)/Proiect/bin/Debug/OpenTK.xml
+G:/EGC/EGC(Lab_exemplu)/Proiect/bin/Debug/OpenTK.GLControl.pdb
+G:/EGC/EGC(Lab_exemplu)/Proiect/bin/Debug/OpenTK.GLControl.xml
+G:/EGC/EGC(Lab_exemplu)/Proiect/obj/Debug/Proiect.csprojAssemblyReference.cache
+G:/EGC/EGC(Lab_exemplu)/Proiect/obj/Debug/Proiect.csproj.CoreCompileInputs.cache
+G:/EGC/EGC(Lab_exemplu)/Proiect/obj/Debug/Proiect.csproj.CopyComplete
+G:/EGC/EGC(Lab_exemplu)/Proiect/obj/Debug/Proiect.exe
+G:/EGC/EGC(Lab_exemplu)/Proiect/obj/Debug/Proiect.pdb
+G:/EGC/Tema(lab5)/Proiect/bin/Debug/assets/Piramida.txt
+G:/EGC/Tema(lab5)/Proiect/bin/Debug/Proiect.exe.config
+G:/EGC/Tema(lab5)/Proiect/bin/Debug/Proiect.exe
+G:/EGC/Tema(lab5)/Proiect/bin/Debug/Proiect.pdb
+G:/EGC/Tema(lab5)/Proiect/bin/Debug/OpenTK.dll
+G:/EGC/Tema(lab5)/Proiect/bin/Debug/OpenTK.GLControl.dll
+G:/EGC/Tema(lab5)/Proiect/bin/Debug/OpenTK.pdb
+G:/EGC/Tema(lab5)/Proiect/bin/Debug/OpenTK.xml
+G:/EGC/Tema(lab5)/Proiect/bin/Debug/OpenTK.GLControl.pdb
+G:/EGC/Tema(lab5)/Proiect/bin/Debug/OpenTK.GLControl.xml
+G:/EGC/Tema(lab5)/Proiect/obj/Debug/Proiect.csprojAssemblyReference.cache
+G:/EGC/Tema(lab5)/Proiect/obj/Debug/Proiect.csproj.CoreCompileInputs.cache
+G:/EGC/Tema(lab5)/Proiect/obj/Debug/Proiect.csproj.CopyComplete
+G:/EGC/Tema(lab5)/Proiect/obj/Debug/Proiect.exe
+G:/EGC/Tema(lab5)/Proiect/obj/Debug/Proiect.pdb
+G:/EGC/Tema5/Proiect/bin/Debug/Proiect.exe.config
+G:/EGC/Tema5/Proiect/bin/Debug/Proiect.exe
+G:/EGC/Tema5/Proiect/bin/Debug/Proiect.pdb
+G:/EGC/Tema5/Proiect/bin/Debug/OpenTK.dll
+G:/EGC/Tema5/Proiect/bin/Debug/OpenTK.GLControl.dll
+G:/EGC/Tema5/Proiect/bin/Debug/OpenTK.pdb
+G:/EGC/Tema5/Proiect/bin/Debug/OpenTK.xml
+G:/EGC/Tema5/Proiect/bin/Debug/OpenTK.GLControl.pdb
+G:/EGC/Tema5/Proiect/bin/Debug/OpenTK.GLControl.xml
+G:/EGC/Tema5/Proiect/obj/Debug/Proiect.csprojAssemblyReference.cache
+G:/EGC/Tema5/Proiect/obj/Debug/Proiect.csproj.CoreCompileInputs.cache
+G:/EGC/Tema5/Proiect/obj/Debug/Proiect.csproj.CopyComplete
+G:/EGC/Tema5/Proiect/obj/Debug/Proiect.exe
+G:/EGC/Tema5/Proiect/obj/Debug/Proiect.pdb
+G:/EGC/Tema5/Proiect/bin/Debug/assets/Cub.txt
+G:/Anul 3 SEM1/EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/bin/Debug/assets/Cub.txt
+G:/Anul 3 SEM1/EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/bin/Debug/Proiect.exe.config
+G:/Anul 3 SEM1/EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/bin/Debug/Proiect.exe
+G:/Anul 3 SEM1/EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/bin/Debug/Proiect.pdb
+G:/Anul 3 SEM1/EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/bin/Debug/OpenTK.dll
+G:/Anul 3 SEM1/EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/bin/Debug/OpenTK.GLControl.dll
+G:/Anul 3 SEM1/EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/bin/Debug/OpenTK.pdb
+G:/Anul 3 SEM1/EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/bin/Debug/OpenTK.xml
+G:/Anul 3 SEM1/EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/bin/Debug/OpenTK.GLControl.pdb
+G:/Anul 3 SEM1/EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/bin/Debug/OpenTK.GLControl.xml
+G:/Anul 3 SEM1/EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/obj/Debug/Proiect.csprojAssemblyReference.cache
+G:/Anul 3 SEM1/EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/obj/Debug/Proiect.csproj.CoreCompileInputs.cache
+G:/Anul 3 SEM1/EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/obj/Debug/Proiect.csproj.CopyComplete
+G:/Anul 3 SEM1/EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/obj/Debug/Proiect.exe
+G:/Anul 3 SEM1/EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/obj/Debug/Proiect.pdb
+/Users/agosh/Downloads/Tema4/Tema5(Ursu Anastasia,grupa3131B)/Proiect/bin/Debug/assets/Cub.txt
+/Users/agosh/Downloads/Tema4/Tema5(Ursu Anastasia,grupa3131B)/Proiect/bin/Debug/Proiect.exe.config
+/Users/agosh/Downloads/Tema4/Tema5(Ursu Anastasia,grupa3131B)/Proiect/bin/Debug/Proiect.exe
+/Users/agosh/Downloads/Tema4/Tema5(Ursu Anastasia,grupa3131B)/Proiect/bin/Debug/Proiect.pdb
+/Users/agosh/Downloads/Tema4/Tema5(Ursu Anastasia,grupa3131B)/Proiect/bin/Debug/OpenTK.dll
+/Users/agosh/Downloads/Tema4/Tema5(Ursu Anastasia,grupa3131B)/Proiect/bin/Debug/OpenTK.GLControl.dll
+/Users/agosh/Downloads/Tema4/Tema5(Ursu Anastasia,grupa3131B)/Proiect/bin/Debug/OpenTK.pdb
+/Users/agosh/Downloads/Tema4/Tema5(Ursu Anastasia,grupa3131B)/Proiect/bin/Debug/OpenTK.xml
+/Users/agosh/Downloads/Tema4/Tema5(Ursu Anastasia,grupa3131B)/Proiect/bin/Debug/OpenTK.GLControl.pdb
+/Users/agosh/Downloads/Tema4/Tema5(Ursu Anastasia,grupa3131B)/Proiect/bin/Debug/OpenTK.GLControl.xml
+/Users/agosh/Downloads/Tema4/Tema5(Ursu Anastasia,grupa3131B)/Proiect/obj/Debug/Proiect.csproj.AssemblyReference.cache
+/Users/agosh/Downloads/Tema4/Tema5(Ursu Anastasia,grupa3131B)/Proiect/obj/Debug/Proiect.exe.config
+/Users/agosh/Downloads/Tema4/Tema5(Ursu Anastasia,grupa3131B)/Proiect/obj/Debug/Proiect.csproj.CoreCompileInputs.cache
+/Users/agosh/Downloads/Tema4/Tema5(Ursu Anastasia,grupa3131B)/Proiect/obj/Debug/Proiect.csproj.CopyComplete
+/Users/agosh/Downloads/Tema4/Tema5(Ursu Anastasia,grupa3131B)/Proiect/obj/Debug/Proiect.exe
+/Users/agosh/Downloads/Tema4/Tema5(Ursu Anastasia,grupa3131B)/Proiect/obj/Debug/Proiect.pdb
+/Users/agosh/Downloads/teme EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/bin/Debug/assets/Cub.txt
+/Users/agosh/Downloads/teme EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/bin/Debug/Proiect.exe.config
+/Users/agosh/Downloads/teme EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/bin/Debug/Proiect.exe
+/Users/agosh/Downloads/teme EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/bin/Debug/Proiect.pdb
+/Users/agosh/Downloads/teme EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/bin/Debug/OpenTK.dll
+/Users/agosh/Downloads/teme EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/bin/Debug/OpenTK.GLControl.dll
+/Users/agosh/Downloads/teme EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/bin/Debug/OpenTK.pdb
+/Users/agosh/Downloads/teme EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/bin/Debug/OpenTK.xml
+/Users/agosh/Downloads/teme EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/bin/Debug/OpenTK.GLControl.pdb
+/Users/agosh/Downloads/teme EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/bin/Debug/OpenTK.GLControl.xml
+/Users/agosh/Downloads/teme EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/obj/Debug/Proiect.csproj.AssemblyReference.cache
+/Users/agosh/Downloads/teme EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/obj/Debug/Proiect.exe.config
+/Users/agosh/Downloads/teme EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/obj/Debug/Proiect.csproj.CoreCompileInputs.cache
+/Users/agosh/Downloads/teme EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/obj/Debug/Proiect.csproj.CopyComplete
+/Users/agosh/Downloads/teme EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/obj/Debug/Proiect.exe
+/Users/agosh/Downloads/teme EGC/Tema5(Ursu Anastasia,grupa3131B)/Proiect/obj/Debug/Proiect.pdb
